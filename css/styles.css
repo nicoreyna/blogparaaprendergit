@@ -1,6 +1,10 @@
 body{
     text-align: center;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     text-align: center;
     display: flex;
     justify-content: center;
