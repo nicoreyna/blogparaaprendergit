@@ -1,5 +1,0 @@
-Esta es una prueba para probar Git
-
-Estoy modificando el archivo
-
-Que es esto?
